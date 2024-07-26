@@ -1,4 +1,4 @@
-# City-Dine-Recommendation-System
+# City-Dine-Recommendation-Forecast
 Developed a Restaurant Recommendation System: Built using machine learning to predict restaurant ratings based
 on user preferences for city location, cuisine and budget.
 Utilized Decision Tree Regression Model: Applied supervised learning techniques to train and test the predictive
